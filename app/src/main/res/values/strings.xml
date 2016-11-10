@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">App3</string>
+
+    <string-array name="Hotels">
+        <item>Hotel Congress</item>
+        <item>Hilton Chicago</item>
+        <item>JW Marriot Chicago</item>
+        <item>The Palmer House</item>
+        <item>Four Seasons Chicago</item>
+        <item>Sheraton Chicago</item>
+    </string-array>
+
+    <string-array name="HotelAddrs">
+        <item>520 S Michigan Ave</item>
+        <item>720 S Michigan Ave</item>
+        <item>151 W Adams St</item>
+        <item>17 E Monroe St</item>
+        <item>120 E Delaware St</item>
+        <item>6501 Manheim Rd</item>
+    </string-array>
+
+    <string-array name="Restaurants">
+        <item>Acadia</item>
+        <item>Alinea</item>
+        <item>Blackbird</item>
+        <item>Grace</item>
+        <item>Momotaro</item>
+        <item>Oriole</item>
+    </string-array>
+
+    <string-array name="RestaurantAddrs">
+        <item>1639 S Wabash Ave</item>
+        <item>1723 N Halsted St</item>
+        <item>619 W Randolph St</item>
+        <item>652 W Randolph St</item>
+        <item>820 W Lake St</item>
+        <item>661 W Walnut St</item>
+    </string-array>
+</resources>
